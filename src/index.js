@@ -40,19 +40,29 @@ export default class App extends Component {
   state = {
     posts: [
       {
-        id: 1, title: 'Aprendendo React Native', description: 'Lorem ipsum proin aliquam conubia praesent mi condimentum augue, non suscipit libero sagittis pharetra platea leo magna, condimentum sagittis conubia fringilla lobortis senectus gravida. himenaeos sem fames rhoncus odio adipiscing elit', author: 'Lucas Gabriel',
+        id: 1,
+        title: 'Aprendendo React Native',
+        description: 'Lorem ipsum proin aliquam conubia praesent mi condimentum augue, non suscipit libero sagittis pharetra platea leo magna, condimentum sagittis conubia fringilla lobortis senectus gravida. himenaeos sem fames rhoncus odio adipiscing elit', author: 'Lucas Gabriel',
       },
       {
-        id: 2, title: 'Aprendendo React Native', description: 'Lorem ipsum proin aliquam conubia praesent mi condimentum augue, non suscipit libero sagittis pharetra platea leo magna, condimentum sagittis conubia fringilla lobortis senectus gravida. himenaeos sem fames rhoncus odio adipiscing elit', author: 'Lucas Gabriel',
+        id: 2,
+        title: 'Aprendendo React Native',
+        description: 'Lorem ipsum proin aliquam conubia praesent mi condimentum augue, non suscipit libero sagittis pharetra platea leo magna, condimentum sagittis conubia fringilla lobortis senectus gravida. himenaeos sem fames rhoncus odio adipiscing elit', author: 'Lucas Gabriel',
       },
       {
-        id: 3, title: 'Aprendendo React Native', description: 'Lorem ipsum proin aliquam conubia praesent mi condimentum augue, non suscipit libero sagittis pharetra platea leo magna, condimentum sagittis conubia fringilla lobortis senectus gravida. himenaeos sem fames rhoncus odio adipiscing elit', author: 'Lucas Gabriel',
+        id: 3,
+        title: 'Aprendendo React Native',
+        description: 'Lorem ipsum proin aliquam conubia praesent mi condimentum augue, non suscipit libero sagittis pharetra platea leo magna, condimentum sagittis conubia fringilla lobortis senectus gravida. himenaeos sem fames rhoncus odio adipiscing elit', author: 'Lucas Gabriel',
       },
       {
-        id: 4, title: 'Aprendendo React Native', description: 'Lorem ipsum proin aliquam conubia praesent mi condimentum augue, non suscipit libero sagittis pharetra platea leo magna, condimentum sagittis conubia fringilla lobortis senectus gravida. himenaeos sem fames rhoncus odio adipiscing elit', author: 'Lucas Gabriel',
+        id: 4,
+        title: 'Aprendendo React Native',
+        description: 'Lorem ipsum proin aliquam conubia praesent mi condimentum augue, non suscipit libero sagittis pharetra platea leo magna, condimentum sagittis conubia fringilla lobortis senectus gravida. himenaeos sem fames rhoncus odio adipiscing elit', author: 'Lucas Gabriel',
       },
       {
-        id: 5, title: 'Aprendendo React Native', description: 'Lorem ipsum proin aliquam conubia praesent mi condimentum augue, non suscipit libero sagittis pharetra platea leo magna, condimentum sagittis conubia fringilla lobortis senectus gravida. himenaeos sem fames rhoncus odio adipiscing elit', author: 'Lucas Gabriel',
+        id: 5,
+        title: 'Aprendendo React Native',
+        description: 'Lorem ipsum proin aliquam conubia praesent mi condimentum augue, non suscipit libero sagittis pharetra platea leo magna, condimentum sagittis conubia fringilla lobortis senectus gravida. himenaeos sem fames rhoncus odio adipiscing elit', author: 'Lucas Gabriel',
       },
     ],
   };
